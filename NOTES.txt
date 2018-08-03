@@ -1,0 +1,14 @@
+- Motion of the Moon around Earth:
+2*pi*t / 27 days
+
+- Derivative gives the local rate of change
+v(t) = dx(t)/dt = x'(t)
+
+- acceleration is the second derivate of v/t
+
+- Newton's Law of gravitation:
+G*(m1 * m2)/d2
+G = 6.67*10^-11 Nm²/Kg
+
+- Moon_gravity ~ 1/6*Earth_gravity = 1.62 m/s²
+- Moon ratio = 1.737*10^6 m 
